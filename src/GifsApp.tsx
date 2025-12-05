@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { CustomHeader } from './shared/components/CustomHeader'
 import { SearchBar} from './shared/components/SearchBar'
 import { PreviusSearch } from './shared/components/PreviusSearch'
